@@ -1,0 +1,46 @@
+html{
+  font-family: Helvetica;
+}
+
+a{
+  text-decoration: none;
+  color: darkgrey;
+
+}
+a:hover{
+  color:black;
+}
+
+h1{
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("../resources/images/pattern.jpeg")
+}
+
+h2{
+  color: white;
+  font-size: 32px;
+}
+
+b{
+  color: blue;
+}
+
+#items {
+  background-color: lightgrey;
+  font-size: 28px;
+  color: black;
+  word-spacing: 200px;
+  text-align: center;
+}
+
+#brushes h2{
+  background-color: mediumspringgreen;
+}
+#frames h2{
+  background-color: lightcoral;
+}
+#paint h2{
+  background-color: skyblue;
+}
